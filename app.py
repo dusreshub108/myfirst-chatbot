@@ -19,7 +19,7 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 # Page Config
 # -----------------------------
 st.set_page_config(
-    page_title="CDS Confluence Chatbot",
+    page_title="My First Chatbot",
     page_icon="🤖",
     layout="wide"
 )
