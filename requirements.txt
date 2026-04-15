@@ -1,0 +1,11 @@
+streamlit
+pdfplumber
+pandas
+requests
+beautifulsoup4
+python-docx
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+tiktoken
