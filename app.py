@@ -19,7 +19,7 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 # Page Config
 # -----------------------------
 st.set_page_config(
-    page_title="My First Chatbot",
+    page_title="QueryMind",
     page_icon="🤖",
     layout="wide"
 )
@@ -38,7 +38,7 @@ st.markdown("""
 # -----------------------------
 # Header
 # -----------------------------
-st.title("CDS Confluence Chatbot")
+st.title("QueryMind")
 st.caption("Ask questions from your documents")
 
 # -----------------------------
